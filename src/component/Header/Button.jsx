@@ -9,5 +9,4 @@ function Button({children , type='button', textColor ='text-white', bgcColor = '
     </button>
   )
 }
-
 export default Button
